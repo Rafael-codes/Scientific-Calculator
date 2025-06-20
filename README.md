@@ -1,6 +1,7 @@
 # Scientific-Calculator
 
-#Features
+# Features
+
 -Basic operations: +, -, ×, ÷
 -Scientific functions: sin, cos, tan, log, sqrt, π, e
 -Simple, responsive GUI using Tkinter
