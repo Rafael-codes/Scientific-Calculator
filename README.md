@@ -1,2 +1,7 @@
 # Scientific-Calculator
-Scientific Calculator using tkinter in python
+
+#Features
+-Basic operations: +, -, ×, ÷
+-Scientific functions: sin, cos, tan, log, sqrt, π, e
+-Simple, responsive GUI using Tkinter
+-Easy to expand with new functions
